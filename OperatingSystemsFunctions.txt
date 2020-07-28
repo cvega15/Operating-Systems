@@ -2,3 +2,7 @@ Memory Management:
   In operating systems, memory management is the process of managing the primary memory space. There are several methods of doing this some of which are static and dynamic loading,
   memory swapping, static and dynamic linking, memory allocation, fragmentation, paging and a few others. The purpose of these is to move memory back and forth between main 
   memory and disk while the operating is running. This is so that the computer always has a decent amount of memory and wont lag or crash.
+
+security:
+  Operating systems also provide security features for users so they can protect their data and use individual accounts usually done through a username and password system. They also implement network services meaning it can block certain ports, connections, ips etc. It also maintains recurring system patches to stay up to date with newer malware. Additionally there's multiple types of logging for failed login attempts, requests from the internet and monitoring of system log files.
+  
