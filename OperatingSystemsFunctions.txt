@@ -6,3 +6,5 @@ Memory Management:
 security:
   Operating systems also provide security features for users so they can protect their data and use individual accounts usually done through a username and password system. They also implement network services meaning it can block certain ports, connections, ips etc. It also maintains recurring system patches to stay up to date with newer malware. Additionally there's multiple types of logging for failed login attempts, requests from the internet and monitoring of system log files.
   
+program execution:
+  an operating system's primary objective is to execute programs, it can load many kinds of different programs for the user to use and uses memory management techniques for making sure the program runs smoothly. The operating system first takes the program from storage and puts it into memory then executes it. While it does this it also provides gui rendering for the user to interact with the program in a user friendly way.
